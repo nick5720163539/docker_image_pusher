@@ -1,6 +1,1 @@
-#支持指定架构
---platform=linux/arm64
-
-odoo:18
-gitea
-gitea runner
+nginx
