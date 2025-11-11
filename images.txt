@@ -1,3 +1,6 @@
 nginx
 odoo
 gitea/gitea
+odoo:18
+odoo:19
+postgres:17
