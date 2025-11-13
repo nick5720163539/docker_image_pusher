@@ -5,3 +5,4 @@ odoo:18
 odoo:19
 postgres:17
 gitea/gitea:1.25.1
+gitea/act_runner
