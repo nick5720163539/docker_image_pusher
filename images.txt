@@ -6,3 +6,7 @@ odoo:19
 postgres:17
 gitea/gitea:1.25.1
 gitea/act_runner
+certbot/certbot
+grafana/loki:latest
+grafana/grafana:latest
+grafana/promtail:latest
