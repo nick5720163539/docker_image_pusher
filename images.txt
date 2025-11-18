@@ -12,3 +12,4 @@ grafana/grafana:latest
 grafana/promtail:latest
 minio/minio
 grafana/alloy
+mingrammer/flog
