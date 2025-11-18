@@ -10,3 +10,5 @@ certbot/certbot
 grafana/loki:latest
 grafana/grafana:latest
 grafana/promtail:latest
+minio/minio
+grafana/alloy
