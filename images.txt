@@ -13,4 +13,4 @@ grafana/promtail:latest
 minio/minio
 grafana/alloy
 mingrammer/flog
-fail2ban:latest
+fail2ban/fail2ban:latest
