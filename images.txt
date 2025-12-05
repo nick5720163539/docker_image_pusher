@@ -14,3 +14,5 @@ minio/minio
 grafana/alloy
 mingrammer/flog
 crazymax/fail2ban:latest
+prom/prometheus:latest
+prom/alertmanager:latest
