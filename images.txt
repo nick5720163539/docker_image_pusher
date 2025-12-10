@@ -15,4 +15,3 @@ mingrammer/flog
 crazymax/fail2ban:latest
 prom/prometheus:latest
 prom/alertmanager:latest
-minio/minio gateway azure
