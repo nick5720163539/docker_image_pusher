@@ -16,3 +16,4 @@ crazymax/fail2ban:latest
 prom/prometheus:latest
 prom/alertmanager:latest
 easytier/easytier:latest
+ghcr.io/nextcloud-releases/all-in-one:latest
