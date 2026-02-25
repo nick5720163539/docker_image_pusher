@@ -21,3 +21,4 @@ ghcr.io/nextcloud-releases/aio-domaincheck:latest
 containrrr/watchtower
 caddy:alpine
 nextcloud/aio-collabora:latest
+ghcr.io/nextcloud-releases/aio-onlyoffice:latest
