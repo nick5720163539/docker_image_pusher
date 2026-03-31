@@ -22,4 +22,3 @@ containrrr/watchtower
 caddy:alpine
 nextcloud/aio-collabora:latest
 ghcr.io/nextcloud-releases/aio-onlyoffice:latest
-openclaw/openclaw:latest
